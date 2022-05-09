@@ -19,6 +19,8 @@ nmap --script smb-vuln-* -p445 192.168.61.40
 
 use mimikats for smb exploit after finding vulnerability
 
+Web Vul Scanner
+nikto -h http://192.168.1.32:5357
 
 
 dirbuster:
