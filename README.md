@@ -6,10 +6,16 @@ NMAP Scanning
 https://www.stationx.net/nmap-cheat-sheet/
 
 NMAP Examples
+
 nmap --help
+
 -V verbose
+
 -A (All - enable OS detection and versions)
+
 example "nmap -A 192.168.1.22"
+
+nmap --script smb-vuln-* -p445 192.168.61.40
 
 
 
@@ -27,3 +33,5 @@ python3 -m http.server 8000
 
 "Remote A"
 curl http:hostA.com 
+
+
