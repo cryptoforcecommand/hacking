@@ -17,6 +17,8 @@ example "nmap -A 192.168.1.22"
 
 nmap --script smb-vuln-* -p445 192.168.61.40 
 
+use mimikats for smb exploit after finding vulnerability
+
 
 
 dirbuster:
