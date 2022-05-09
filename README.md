@@ -41,3 +41,5 @@ python3 -m http.server 8000
 curl http:hostA.com 
 
 
+searchsploit
+example: searchsploit HP Power manager
