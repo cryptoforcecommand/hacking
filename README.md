@@ -33,6 +33,9 @@ https://gtfobins.github.io/gtfobins/bash/
 Living Off the Land Binaries (Windows)
 https://lolbas-project.github.io/
 
+Google Hacking Database
+exploit-db.com/ghdb
+
 Transfer Files Web Connection
 "Host A"
 python3 -m http.server 8000
