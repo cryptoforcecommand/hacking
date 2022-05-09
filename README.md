@@ -5,6 +5,7 @@ Discovery
 NMAP Scanning
 https://www.stationx.net/nmap-cheat-sheet/
 
+NMAP Examples
 nmap --help
 -V verbose
 -A (All - enable OS detection and versions)
