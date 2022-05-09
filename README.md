@@ -15,11 +15,13 @@ nmap --help
 
 example "nmap -A 192.168.1.22"
 
-nmap --script smb-vuln-* -p445 192.168.61.40
+nmap --script smb-vuln-* -p445 192.168.61.40 
 
 
 
-
+dirbuster:
+- built in Kali Linux
+- scans for directories on web host
 
 Living Off the Land Binaries (Linux)
 https://gtfobins.github.io/gtfobins/bash/
